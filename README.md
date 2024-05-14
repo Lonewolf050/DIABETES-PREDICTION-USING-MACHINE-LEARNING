@@ -2,8 +2,8 @@
 
 Welcome to the Diabetes Predicting Using Machine Learning reporsitoty . This project focuses on leveraging machine learning techniques to address various challenges and opportunities within the healthcare domain. under this domain i have made Diabetes prediction ..
 
-  ![image](![image](https://github.com/Lonewolf050/DIABETES-PREDICTION-USING-MACHINE-LEARNING/assets/106444631/c495082d-79be-444c-829d-ad87205f2a69)
-)
+![image](https://github.com/Lonewolf050/DIABETES-PREDICTION-USING-MACHINE-LEARNING/assets/106444631/59052055-3c5b-4948-93d0-f3f50119808f)
+
 
 # Project Description
 **Introduction**
@@ -19,8 +19,7 @@ Join us in this journey as we strive to transform diabetes management and preven
 Problem Description :
 A dataset is formed by taking into consideration some of the information of 700 approx individuals. The problem is : based on the given information about each individual we have to calculate that whether that individual will suffer from diabetes disease.
 
- ![image](![image](https://github.com/Lonewolf050/DIABETES-PREDICTION-USING-MACHINE-LEARNING/assets/106444631/b54ec1d8-d7c2-4e69-b686-3cdc4c87cf6f)
-)
+![image](https://github.com/Lonewolf050/DIABETES-PREDICTION-USING-MACHINE-LEARNING/assets/106444631/105dd48c-07fb-4b18-b227-9b887e5d9cdb)
 
 
 # Dataset :
@@ -79,7 +78,8 @@ The Daibetes disease data set consists of patient data from Cleveland, Hungary, 
 
 # Graphical User Interface
 
-![GUI] ![image](https://github.com/Lonewolf050/DIABETES-PREDICTION-USING-MACHINE-LEARNING/assets/106444631/232fbbf7-3e48-42d4-b891-c50b595771b4)
+![image](https://github.com/Lonewolf050/DIABETES-PREDICTION-USING-MACHINE-LEARNING/assets/106444631/b3e3644e-64b7-4c86-bc0f-9bf9762fd089)
+
 
 
 # Usage:
