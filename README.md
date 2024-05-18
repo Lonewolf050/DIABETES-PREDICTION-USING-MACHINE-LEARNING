@@ -1,6 +1,6 @@
 # DIABETES-PREDICTION-USING-MACHINE-LEARNING
 
-Welcome to the Diabetes Predicting Using Machine Learning reporsitoty . This project focuses on leveraging machine learning techniques to address various challenges and opportunities within the healthcare domain. under this domain i have made Diabetes prediction ..
+Welcome to the Diabetes Predicting Using Machine Learning reporsitoty . This project focuses on leveraging machine learning techniques to address various challenges and opportunities within the healthcare domain under this domain i have made Diabetes prediction.
 
 ![image](https://github.com/Lonewolf050/DIABETES-PREDICTION-USING-MACHINE-LEARNING/assets/106444631/59052055-3c5b-4948-93d0-f3f50119808f)
 
@@ -19,7 +19,7 @@ Join us in this journey as we strive to transform diabetes management and preven
 Problem Description :
 A dataset is formed by taking into consideration some of the information of 700 approx individuals. The problem is : based on the given information about each individual we have to calculate that whether that individual will suffer from diabetes disease.
 
-![image](https://github.com/Lonewolf050/DIABETES-PREDICTION-USING-MACHINE-LEARNING/assets/106444631/105dd48c-07fb-4b18-b227-9b887e5d9cdb)
+   ![image](https://github.com/Lonewolf050/DIABETES-PREDICTION-USING-MACHINE-LEARNING/assets/106444631/105dd48c-07fb-4b18-b227-9b887e5d9cdb)
 
 
 # Dataset :
@@ -40,7 +40,7 @@ The Daibetes disease data set consists of patient data from Cleveland, Hungary, 
 # Key Features:
 * Data Preprocessing: The dataset is carefully examined for missing values and duplicates, which are then handled appropriately.
 * Exploratory Data Analysis (EDA): A comprehensive analysis of the dataset is performed, including the visualization of feature distributions and correlation matrices.
-* Model Training: Several machine learning models such as Logistic Regression, K-Nearest Neighbors, Random Forest, and Decision Tree are trained on the dataset.
+* Model Training: Several machine learning models such as Logistic Regression, Support Vector Machine and Random Forest are trained on the dataset.
 * Model Evaluation: The accuracy of each model is evaluated on both training and test datasets. Precision-Recall and ROC curves are also plotted for the Logistic Regression model to assess performance.
 * Graphical User Interface (GUI): A simple GUI application built using Tkinter allows users to input their medical data and receive predictions for heart disease.
 * GitHub Repository Structure: The repository is well-organized, containing code files, sample dataset, trained models, and a README file providing detailed instructions for usage and setup.
